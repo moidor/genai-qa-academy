@@ -23,3 +23,7 @@ Pour chaque mise à jour, modifier `content.js` (cours) / `bank.js` (questions, 
 Syllabus ISTQB® CT-GenAI v1.1 (27/04/2026), auteurs Abbas Ahmad, Gualtiero Bazzana, Alessandro Collino, Olivier Denoo, Bruno Legeard ; CFTL traduction française v1.0 ; Sample Exam A Questions et Answers v1.1, auteurs Abbas Ahmad, Alessandro Collino, Bruno Legeard. © ISTQB® et auteurs pour les sources. Support non officiel et non accrédité ; pas de redistribution des PDF ni de reproduction intégrale de l'examen. Vérifier les conditions de publication avant diffusion publique.
 
 La banque comporte 254 variantes issues de 127 couples notion/exemple, 40 QCM de départ (dont une question à réponses multiples révisée), une seconde question multiple et 5 cas nouveaux. Les niveaux K sont les niveaux des objectifs associés, pas une validation indépendante de la difficulté de chaque item. Les 40 questions officielles sont indexées avec pages, points évalués et réponses ; lire les PDF d'origine à côté. La simulation utilise un tirage par objectif selon la distribution du Sample Exam A ; elle n'est pas un examen officiel. La progression est conservée par navigateur et par origine ; exporter/importer pour la transférer.
+
+### En cas d'erreur 404
+
+Vérifier que Pages utilise `main` et `/ (root)` et que le workflow `pages build and deployment` a réussi. Si aucune exécution n'apparaît, effectuer un commit depuis le compte propriétaire avec une adresse e-mail vérifiée.
