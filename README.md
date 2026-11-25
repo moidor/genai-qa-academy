@@ -27,3 +27,5 @@ La banque comporte 254 variantes issues de 127 couples notion/exemple, 40 QCM de
 ### En cas d'erreur 404
 
 Vérifier que Pages utilise `main` et `/ (root)` et que le workflow `pages build and deployment` a réussi. Si aucune exécution n'apparaît, effectuer un commit depuis le compte propriétaire avec une adresse e-mail vérifiée.
+
+moidor.
